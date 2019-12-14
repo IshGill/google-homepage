@@ -1,0 +1,196 @@
+.Top { margin: 10px; padding: 10px }
+
+a{text-decoration: none;
+color: black;}
+
+.white{color: white;}
+
+.EE{color: blue;}
+
+.Gmail, .Images { 
+    font-family: arial, sans-serif; 
+    color: rgba(0, 0, 0, 0.87);
+    display: inline-block;
+    font-size: 13px; 
+    line-height:24px; 
+    opacity: 0.85; 
+    outline-color: rgba(0, 0, 0, 0.87);
+    outline-style: none; 
+    outline-width: 0px; 
+    text-align: right; 
+    text-decoration-thickness: auto; 
+    vertical-align: middle;
+    white-space: nowrap;
+    font-weight: lighter; }
+
+.Gmail:hover {
+    text-decoration: underline;
+}
+
+.Images:hover {
+    text-decoration: underline;
+}
+
+.Apps:hover {
+    opacity: .85;
+}
+
+.submit-it:hover{
+    cursor: pointer;
+    box-shadow: 0 2px 2px 0 black;
+    background-color:rgba(255, 255, 255, 0.719);
+    color: rgb(0, 0, 0);
+    opacity: 100%;
+}
+
+.EE:hover {
+    text-decoration: underline;
+}
+.Apps { background-image: url("https://ssl.gstatic.com/gb/images/i1_1967ca6a.png");
+    background-position: -132px -38px;
+    background-position-x: -132px;
+    background-position-y: -38px;
+    background-size: 528px 68px;
+    border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 2px;
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+    box-sizing: border-box;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    display: inline-block;
+    font-family: arial, sans-serif;
+    font-size: 13px;
+    height: 30px;
+    line-height: normal;
+    opacity: 45%;
+    outline-color: rgb(0, 0, 0);
+    outline-style: none;
+    outline-width: 0px;
+    text-align: left;
+    text-decoration: rgb(0, 0, 0);
+    text-decoration-color: rgb(0, 0, 0);
+    text-decoration-line: none;
+    text-decoration-style: solid;
+    text-decoration-thickness: auto;
+    vertical-align: middle;
+    white-space: nowrap;
+    width: 30px;}
+
+    .Sign {background-attachment: scroll;
+    background-clip: border-box;
+    background-color: rgba(0, 0, 0, 0);
+    background-image: -moz-linear-gradient(rgb(67, 135, 253), rgb(70, 131, 234));
+    background-origin: padding-box;
+    background-position: 0% 0%;
+    background-position-x: 0%;
+    background-position-y: 0%;
+    background-repeat: repeat;
+    background-size: auto;
+    border-bottom-color: rgb(66, 133, 244);
+    border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 2px;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-image-outset: 0;
+    border-image-repeat: stretch;
+    border-image-slice: 100%;
+    border-image-source: none;
+    border-image-width: 1;
+    border-left-color: rgb(66, 133, 244);
+    border-left-style: solid;
+    border-left-width: 1px;
+    border-right-color: rgb(66, 133, 244);
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-top-color: rgb(66, 133, 244);
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+    border-top-style: solid;
+    border-top-width: 1px;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 1px 0px 0px;
+    color: rgb(255, 255, 255);
+    cursor: default;
+    display: inline-block;
+    font-family: arial, sans-serif;
+    font-size: 13px;
+    font-weight: 700;
+    line-height: 28px;
+    outline-color: rgb(255, 255, 255);
+    outline-style: none;
+    outline-width: 0px;
+    padding-bottom: 0px;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: rgb(255, 255, 255);
+    text-decoration-color: rgb(255, 255, 255);
+    text-decoration-line: none;
+    text-decoration-style: solid;
+    text-decoration-thickness: auto;
+    white-space: nowrap;
+    word-spacing: 0px; }
+
+    .post { position: absolute; top: 0px; right: 20px; word-spacing: px; }
+
+    .logo { position: relative;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;}
+    
+    .glogo {
+        padding: 109px;}
+
+    .search-the-web{ height: 50px;
+        padding: 10px;
+        width: 37em;
+        margin-left: -1em;
+        border-radius: 25px;
+        background-color:transparent;
+        outline: 10%;}
+
+    .form-box{position: relative;
+        top: 50%;
+        left: 44%;
+        margin-top: -85px;
+        margin-left: -50px;
+        width: 100px;
+        height: 100px;
+        display:block;
+    }
+
+    .submit-it{position: relative;
+        left: 94.35em;
+        padding: 7px;
+        margin: 3px;
+        margin-top: -100px;
+        display:inline-block;
+        width: 135px;
+        font-family: arial,sans-serif;
+        background-color: #c6c6c6;
+        opacity: 72%;
+        color: black;
+        
+        border: 1px solid #c6c6c6;
+        border-radius: 4px;
+        }
+  
+        .submit-box{position: absolute;
+        margin-top: -20px;
+        }
+
+    .mc2{ font-family: Arial, Helvetica, sans-serif;
+        color: rgba(0, 0, 0, 0.87);
+        display: inline-block;
+        font-size: 13px; 
+        line-height:24px; 
+        font-weight: lighter;}
+
+    .E{ position: relative;
+        left: 74em;
+        padding: 7px;
+        margin: 3px;
+        margin-top: 10px; }
+
+    
