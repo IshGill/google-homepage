@@ -69,7 +69,9 @@ color: black;}
     text-decoration-thickness: auto; 
     vertical-align: middle;
     white-space: nowrap;
-    font-weight: lighter; }
+    font-weight: lighter; 
+    
+    }
 
 .Gmail:hover {
     text-decoration: underline;
@@ -85,14 +87,20 @@ color: black;}
 
 .submit-it:hover{
     cursor: pointer;
-    box-shadow: 0 2px 2px 0 black;
-    background-color:rgba(255, 255, 255, 0.719);
+    box-shadow: 1px 1px 1px 1px #f2f2f2;
+    background-color: #f8f8f8;
+    opacity: 60%;
+    border: 1.5px solid #c6c6c6;
     color: rgb(0, 0, 0);
-    opacity: 100%;
+    opacity: 170%;
 }
 
 .EE:hover {
     text-decoration: underline;
+}
+
+.search-the-web:hover {
+    box-shadow: 2px 2px 4px 2px #c6c6c6;
 }
 .Apps { background-image: url("https://ssl.gstatic.com/gb/images/i1_1967ca6a.png");
     background-position: -132px -38px;
@@ -190,13 +198,16 @@ color: black;}
     .glogo {
         padding: 109px;}
 
-    .search-the-web{ height: 50px;
+    .search-the-web{ height: 23.8px;
         padding: 10px;
-        width: 37em;
-        margin-left: -1em;
+        width: 43em;
+        margin-left: -5em;
         border-radius: 25px;
         background-color:transparent;
-        outline: 10%;}
+        outline: 10%;
+        border: none;
+        box-shadow: 0 0 .5px #888;
+    ;}
 
     .form-box{position: relative;
         top: 50%;
@@ -206,32 +217,30 @@ color: black;}
         width: 100px;
         height: 100px;
         display:block;
+        font
     }
 
     .submit-it{position: relative;
+        height: 35px;
         margin-right: 5em;
-        left: 94.72em;
+        left: 88em;
         padding: 7px;
         margin: 3px;
         margin-top: -100px;
         display:inline-block;
-        width: 135px;
+        width: 120px;
         font-family: arial,sans-serif;
-        background-color: #c6c6c6;
-        opacity: 72%;
+        font-size: 13px;
+        background-color: #f8f8f8;
+        opacity: 80%;
         color: black;
-        
         border: 1px solid #c6c6c6;
         border-radius: 4px;
         }
   
         .submit-box{position: absolute;
         margin-top: -20px;
-       
-
-        
-        
-        }
+       }
 
     .mc2{ font-family: Arial, Helvetica, sans-serif;
         color: rgba(0, 0, 0, 0.87);
